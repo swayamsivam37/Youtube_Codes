@@ -2,6 +2,12 @@
 using namespace std;
 typedef long long ll;
 
+/* 8     --number of element(n)
+   3 5 -4 8 11 1 -1 6  --array_elements
+   10                   --target
+ */
+
+
 // o(n^2)-time/ space- o(1)
 //vector<ll> twoSum(ll *a,ll n,ll target)
 //{
